@@ -1,0 +1,22 @@
+.footer-container{
+    width: 100vw;
+    height: 20%;
+    max-height: 10vh;
+    background-color: #ededed;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-image{
+    height: 90%;
+    width: 8%;
+    margin-left: 10px;
+}
+
+.contact{
+    color: #666666;
+    font-weight: bold;
+    margin-right: 10px;
+}

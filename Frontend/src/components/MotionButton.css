@@ -1,0 +1,19 @@
+.bouncy-button {
+  color: white;
+  border: none;
+  border-radius: 8px;
+  padding: 10px 22px;
+  font-size: 1rem;
+  transition: box-shadow 0.2s ease;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  margin: 10px;
+}
+
+.bouncy-button:focus{
+  outline: none;
+  border: none;
+  border-style: none;
+}
